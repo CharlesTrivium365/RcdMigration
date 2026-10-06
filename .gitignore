@@ -1,0 +1,4 @@
+RcdMigration-*.csv
+RcdMigration-*.html
+*.csv
+!exemples/*.csv
